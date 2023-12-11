@@ -8,11 +8,15 @@ Welcome to my Snake Game! This classic game is built with Python using the Pygam
 
 ## Features
 
+
+
 - Easy-to-use controls for seamless gameplay
 - Simple yet captivating graphics and visual effects
 - Smooth and responsive movements for an enjoyable gaming experience
 - Dynamic food generation to keep the game challenging and exciting
 - Score tracking and display to monitor progress and achievements
+
+
 
 ## Description
 
@@ -28,6 +32,31 @@ This project demonstrates my skills in Python programming and game development u
 Simply download the Snake_Game.exe file from the repository to your local machine.
 
 Double-click the Snake_Game.exe file to launch the game. Use the arrow keys to control the snake's direction. Aim to collect the food and avoid collisions with the boundaries and your own tail.
+
+## For development:
+
+ Create and Activate the environment:
+
+
+python -m venv venv   
+
+
+ Activate on Linux/Mac
+
+
+source venv/bin/activate 
+
+
+  Activate on Windows
+
+
+venv\Scripts\activate      
+
+
+
+ Install Dependencies
+
+pip install -r requirements.txt
 
 ## Contribution
 
